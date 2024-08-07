@@ -1367,13 +1367,13 @@ $02 쯧쯧! 마귀할멈~40
 # Original message: 11 
 # "双手端着物品无法爬下去"
 [BEGIN MESSAGE] 11
-손이 가득해, 올라갈 수 없어
+"손이 가득해, 내려갈 수 없어"
 [END MESSAGE] 11
 
 # Original message: 12 
 # "双手端着物品无法爬上去"
 [BEGIN MESSAGE] 12
-손이 가득해, 올라갈 수 없어
+"손이 가득해, 올라갈 수 없어"
 [END MESSAGE] 12
 
 # Original message: 13 
@@ -1737,7 +1737,7 @@ $02 쯧쯧! 마귀할멈~40
 # Original message: 112 
 # "李逍遥把桂花酒收在怀里"
 [BEGIN MESSAGE] 112
-소요는 계화주를 챙겼다
+"소요는 계화주를 챙겼다"
 [END MESSAGE] 112
 
 # Original message: 113 
@@ -1843,7 +1843,7 @@ $02 쯧쯧! 마귀할멈~40
 # Original message: 143 
 # "一名衣衫褴褛的醉汉躺在门口"
 [BEGIN MESSAGE] 143
-남루한 옷차림의 거지
+"남루한 옷차림의 거지"
 [END MESSAGE] 143
 
 # Original message: 144 
@@ -2049,7 +2049,7 @@ $02 쯧쯧! 마귀할멈~40
 [BEGIN MESSAGE] 200
 술취한 도사:
 하하하, 그럼 내일 저녁 삼경
-십리포의 산신묘에서 기다리지
+십리포의 "산신묘"에서 기다리지
 [END MESSAGE] 202
 
 # Original message: 203 
@@ -2167,8 +2167,8 @@ $02 쯧쯧! 마귀할멈~40
 [BEGIN MESSAGE] 232
 왕재수:
 아들 소호가 
-선령도로 가고 만거야.
-요정이 약을 줬다나. 왕씨가
+"선령도"로 가고 만거야.
+선녀가 약을 줬다나. 왕씨가
 그 약 먹자 바로 회복했다네
 [END MESSAGE] 236
 
@@ -2551,7 +2551,7 @@ $02 쯧쯧! 마귀할멈~40
 [BEGIN MESSAGE] 348
 홍대부:
 니 숙모는 원래 몸이 안좋았어
-너한테 숨긱고 있었던거야
+너한테 숨기고 있었던거야
 [END MESSAGE] 350
 
 # Original message: 351 
@@ -2768,8 +2768,8 @@ $02 쯧쯧! 마귀할멈~40
 # "李逍遥收下破天锤，并服下"
 # "苗人给的丹丸（忘忧散）"
 [BEGIN MESSAGE] 418
-파천추,  단환을 \(망각의 단환\)
-삼켰다.
+"파천추를 받고,  단환을 "
+"\(망각의 단환\) 삼켰다."
 [END MESSAGE] 419
 
 # Original message: 420 
@@ -3373,7 +3373,7 @@ $02 쯧쯧! 마귀할멈~40
 # Original message: 610 
 # "李大娘服下紫金丹．．"
 [BEGIN MESSAGE] 610
-숙모에게 자금단을 먹였다.
+"숙모에게 자금단을 먹였다."
 [END MESSAGE] 610
 
 # Original message: 611 
@@ -3388,14 +3388,14 @@ $02 쯧쯧! 마귀할멈~40
 # "李逍遥先前服下的忘忧散"
 # "发作，昏倒在地．．"
 [BEGIN MESSAGE] 613
-앞서 망각의 선단의 효과가
-나타남. 소요는 기절함.
+"앞서 망각의 선단의 효과가"
+"나타남. 소요는 기절함."
 [END MESSAGE] 614
 
 # Original message: 615 
 # "夜晚．．"
 [BEGIN MESSAGE] 615
-그날 밤…
+"그날 밤…"
 [END MESSAGE] 615
 
 # Original message: 616 
@@ -3448,8 +3448,8 @@ $02 쯧쯧! 마귀할멈~40
 # "李逍遥从昨天出发到仙灵岛"
 # "至拿药回来的记忆全失去了"
 [BEGIN MESSAGE] 629
-이소요는 선령도에서
-있었던 사실을 모두 잊었다.
+"이소요는 선령도에서"
+"있었던 일을 모두 잊었다."
 [END MESSAGE] 630
 
 # Original message: 631 
@@ -3491,7 +3491,7 @@ $02 쯧쯧! 마귀할멈~40
 # Original message: 641 
 # "婶婶房里传来声音．．"
 [BEGIN MESSAGE] 641
-숙모의 방에서 목소리가…
+"숙모의 방에서 목소리가…"
 [END MESSAGE] 641
 
 # Original message: 642 
@@ -4119,7 +4119,7 @@ $02 쯧쯧! 마귀할멈~40
 # Original message: 815 
 # "远远传来宏亮的朗诗声"
 [BEGIN MESSAGE] 815
-멀리서 우렁찬 소리가 들린다
+"멀리서 우렁찬 소리가 들린다"
 [END MESSAGE] 815
 
 # Original message: 816 
@@ -4854,13 +4854,13 @@ $02 쯧쯧! 마귀할멈~40
 # Original message: 1031 
 # "　　　　　当夜．．"
 [BEGIN MESSAGE] 1031
-   그날 밤...
+"   그날 밤..."
 [END MESSAGE] 1031
 
 # Original message: 1032 
 # "密道坏了．．"
 [BEGIN MESSAGE] 1032
-통로는 부셔졌다.
+"통로는 부셔졌다."
 [END MESSAGE] 1032
 
 # Original message: 1033 
@@ -4876,13 +4876,13 @@ $02 쯧쯧! 마귀할멈~40
 # Original message: 1036 
 # "密道坏了．．"
 [BEGIN MESSAGE] 1036
-통로는 부셔졌다.
+"통로는 부셔졌다."
 [END MESSAGE] 1036
 
 # Original message: 1037 
 # "门外传来哭泣声．．"
 [BEGIN MESSAGE] 1037
-문 밖에 흐느끼는 소리가…
+"문 밖에 흐느끼는 소리가…"
 [END MESSAGE] 1037
 
 # Original message: 1038 
@@ -5028,7 +5028,7 @@ $02 쯧쯧! 마귀할멈~40
 # Original message: 1076 
 # "　次日．．"
 [BEGIN MESSAGE] 1076
-    다음 날...
+"    다음 날..."
 [END MESSAGE] 1076
 
 # Original message: 1077 
@@ -6172,7 +6172,7 @@ $02 쯧쯧! 마귀할멈~40
 # Original message: 1394 
 # 获得"水果"
 [BEGIN MESSAGE] 1394
-과일 을 얻었다.
+"과일" 을 얻었다.
 [END MESSAGE] 1394
 
 # Original message: 1395 
@@ -7457,7 +7457,7 @@ $02"조령아가 울기 시작한다"
 # Original message: 1774 
 # "一夜过去．．"~40
 [BEGIN MESSAGE] 1774
-그 밤은 그렇게 지나가고~40
+"그 밤은 그렇게 지나가고"~40
 [END MESSAGE] 1774
 
 # Original message: 1775 
@@ -7512,8 +7512,8 @@ $02령아～ 날 기다려줘…
 # 观音像上刻着一行字：
 # "苦海无涯　回头是岸"
 [BEGIN MESSAGE] 1785
-관음상에 문구가 있다:
-돌아가는 것이 안전하리라
+"관음상에 문구가 있다:
+돌아가는 것이 안전하리라"
 [END MESSAGE] 1786
 
 # Original message: 1787 
@@ -7665,7 +7665,7 @@ $02령아～ 날 기다려줘…
 # Original message: 1825 
 # "说完．．姥姥便断气了．．"
 [BEGIN MESSAGE] 1825
-할머님은 숨을 거두셨다.
+"할머님은 숨을 거두셨다."
 [END MESSAGE] 1825
 
 # Original message: 1826 
@@ -7737,9 +7737,9 @@ $02령아～ 날 기다려줘…
 # "众人皆倒卧於血泊之中，显然"
 # "全都遭到苗人的毒手"
 [BEGIN MESSAGE] 1844
-수월궁 안의 모든 이들이
-피흘리며 죽어있다. 아마도
-묘족에게 당한 것 같다
+"수월궁 안의 모든 이들이"
+"피흘리며 죽어있다. 아마도"
+"묘족에게 당한 것 같다"
 [END MESSAGE] 1846
 
 # Original message: 1847 
@@ -7758,8 +7758,8 @@ $02령아～ 날 기다려줘…
 # "第六具石像亦应声而碎
 # 然而破天锤也断了"
 [BEGIN MESSAGE] 1849
-여섯 동상이 깨어지면서
-파천추도 역시 부서졌다.
+"여섯 동상이 깨어지면서
+파천추도 역시 부서졌다."
 [END MESSAGE] 1850
 
 # Original message: 1851 
@@ -7872,7 +7872,7 @@ $02령아～ 날 기다려줘…
 # Original message: 1884 
 # "姥姥全神贯注的在祭拜"
 [BEGIN MESSAGE] 1884
-할머니는 열심히 예배를 드린다
+"할머니는 열심히 예배를 드린다"
 [END MESSAGE] 1884
 
 # Original message: 1885 
@@ -8586,7 +8586,7 @@ $02좋아… 날 따라와～
 # Original message: 2076 
 # "救命啊．．．救命啊！"
 [BEGIN MESSAGE] 2076
-살려줘!!! 살려줘!!!
+"살려줘!!! 살려줘!!!"
 [END MESSAGE] 2076
 
 # Original message: 2077 
@@ -8792,21 +8792,21 @@ $02좋아… 날 따라와～
 # Original message: 2133 
 # "灵儿念起咒文．．"~50
 [BEGIN MESSAGE] 2133
-령아가 선술을 외운다~50
+"령아가 선술을 외운다"~50
 [END MESSAGE] 2133
 
 # Original message: 2134 
 # "灵儿真气消耗过度，晕了过去"
 [BEGIN MESSAGE] 2134
-령아는 기가 빠져, 기절함
+"령아는 기가 빠져, 기절함"
 [END MESSAGE] 2134
 
 # Original message: 2135 
 # "不知过了几个时辰"
 # "两人才转醒过来．．"
 [BEGIN MESSAGE] 2135
-시간이 지난 뒤
-둘은 깨어났다.
+"시간이 지난 뒤"
+"둘은 깨어났다."
 [END MESSAGE] 2136
 
 # Original message: 2137 
@@ -10450,7 +10450,7 @@ You ask for it!
 # 家吧！
 [BEGIN MESSAGE] 2631
 이소요:
-"100G를 건네줬다." 
+자, 100G 여깄어요
 어서 약을 사서
 집으로 돌아가보세요!
 [END MESSAGE] 2634
@@ -15002,7 +15002,7 @@ for you and Mistress!
 # 买糯米吗？一包１００文钱
 [BEGIN MESSAGE] 3991
 점원:
-찹쌀? 1개 100G 를 얻었다.야
+찹쌀? 1개 100G야
 [END MESSAGE] 3992
 
 # Original message: 3993 
@@ -16748,7 +16748,7 @@ Master 지수:
 # Original message: 4498 
 # "韩医仙一行人走了"
 [BEGIN MESSAGE] 4498
-한의선 일행이 떠났다
+"한의선 일행이 떠났다"
 [END MESSAGE] 4498
 
 # Original message: 4499 
@@ -18260,7 +18260,7 @@ $08후...
 # Original message: 4949 
 # "屏风后面出现一道秘门"
 [BEGIN MESSAGE] 4949
-병풍뒤에 비밀문이 있다.
+"병풍뒤에 비밀문이 있다."
 [END MESSAGE] 4949
 
 # Original message: 4950 
@@ -19952,7 +19952,7 @@ Madam Liu:
 포주:
 오 잘생긴 총각
 처음? 아가씨를 원해?
-2000G 를 얻었다.밖에 안한다고
+2000G밖에 안한다고
 [END MESSAGE] 5454
 
 # Original message: 5455 
@@ -20904,8 +20904,8 @@ Madam Liu:
 # 出人头地，唯有靠勤奋读书
 [BEGIN MESSAGE] 5736
 선비:
-"10년동안 초야에 묻혀있었지
-단번에 이름을 날릴것이야."
+10년동안 초야에 묻혀있었지
+단번에 이름을 날릴것이야.
 [CLEAR MESSAGE]
 어머니께서 근면하게
 책을 읽어야 출세한댔지
@@ -21551,8 +21551,8 @@ Madam Liu:
 # 　"屋外传来一声惊叫之后"
 # 　　"又恢复寂静．．"
 [BEGIN MESSAGE] 5931
-밖에서 비명 소리가 한 차례
-그리고 다시 정적이...
+"밖에서 비명 소리가 한 차례"
+"그리고 다시 정적이..."
 [END MESSAGE] 5932
 
 # Original message: 5933 
@@ -24616,7 +24616,7 @@ Madam Liu:
 # Original message: 6861 
 # "二人叫醒刘晋元．．"
 [BEGIN MESSAGE] 6861
-두 사람은 유진원을 깨운다
+"두 사람은 유진원을 깨운다"
 [END MESSAGE] 6861
 
 # Original message: 6862 
@@ -24846,7 +24846,7 @@ Madam Liu:
 # 的人，都是这么做就好了
 [BEGIN MESSAGE] 6930
 하녀 아향:
-주술을 쓰는 도사에게
+주술을 쓰는 "도사"에게
 뭔가 도움이 될만한
 부탁을 드려보는건요?
 [END MESSAGE] 6933
@@ -26175,8 +26175,8 @@ Madam Liu:
 점쟁이:
 흠, 자네 아주 바르군.
 좋아, 내가 한마디 더하지
-모든 것은 마음에 달렸어.
-인연은 하늘이 정할 뿐...
+"모든 것은 마음에 달렸어."
+"인연은 하늘이 정할 뿐..."
 [END MESSAGE] 7328
 
 # Original message: 7329 
@@ -28000,7 +28000,7 @@ Hunter:
 # Original message: 7875 
 # "前方栈道已塌"
 [BEGIN MESSAGE] 7875
-다리는 무너진 상태
+"다리는 무너진 상태"
 [END MESSAGE] 7875
 
 # Original message: 7876 
@@ -30291,9 +30291,9 @@ $05채의, 상공으로 모시거라~60
 # 并赠予"雷灵珠"、符咒若干张
 # 以及"酒"二壶
 [BEGIN MESSAGE] 8565
-$05"주신"소환, "취선망월보"
+$05"주신주", "취선망월보"
 "선풍운체술"을 배웠다.
-"뇌령주"와 "부적",
+"뢰령주"와 "부적",
 두 병의 "술"을 받았다.
 [END MESSAGE] 8568
 
@@ -30322,7 +30322,7 @@ $02이건 거미줄에서 구한거
 아마 쓸모있을게야.
 [CLEAR MESSAGE]
 이 술은 마시지 말고,
-"주신"을 소환할 때
+"주신주"를 행할 때
 써보게. 내가 개발했지.
 아주 강력하나, 평생에
 단 9번 밖에 쓰지 못하네
@@ -31275,7 +31275,7 @@ $06*흑* 난 여기 오지 말았어야...
 # Original message: 8858 
 # "书简中的妖怪不理睬你"
 [BEGIN MESSAGE] 8858
-서중선은 당신을 무시한다
+"서중선은 당신을 무시한다"
 [END MESSAGE] 8858
 
 # Original message: 8859 
@@ -31437,7 +31437,7 @@ $06*흑* 난 여기 오지 말았어야...
 # Original message: 8903 
 # 得到"天书"
 [BEGIN MESSAGE] 8903
-천서 를 얻었다.
+"천서" 를 얻었다.
 [END MESSAGE] 8903
 
 # Original message: 8904 
@@ -32997,7 +32997,7 @@ $00"키아아아아～아아아!!!"~40
 # Original message: 9359 
 # "．．．！！"
 [BEGIN MESSAGE] 9359
-....!!
+"....!!"
 [END MESSAGE] 9359
 
 # Original message: 9360 
@@ -35017,7 +35017,7 @@ $08그… 그럴리가 없어~60
 # Original message: 9976 
 # "数月后．．．"~30
 [BEGIN MESSAGE] 9976
-몇 달이 지나서...~30
+"몇 달이 지나서..."~30
 [END MESSAGE] 9976
 
 # Original message: 9977 
@@ -44414,7 +44414,7 @@ $02령아!!
 # 绣花鞋、玉镯子、以及一把略
 # 为生锈的铁剑．．
 [BEGIN MESSAGE] 12543
-보따리엔 500G 를 얻었다.와 수권 1첩
+보따리엔 500G와 수권 1첩
 치료제, 자수 신발, 옥팔찌
 그리고 한움큼이 녹이슨
 철검 한자루
@@ -44444,9 +44444,9 @@ $02령아!!
 # "．．．．．．．．．．阿辉。"
 [BEGIN MESSAGE] 12551
 편지의 글:
-포근한 아름다움으로 착한 아향
-그대에게 이 말을 전합니다.
-당신을 사랑합니다….........
+"포근한 아름다움으로 착한 아향"
+"그대에게 이 말을 전합니다."
+"당신을 사랑합니다…........."
 ........ 아 휘
 [END MESSAGE] 12555
 
@@ -44495,7 +44495,7 @@ $02령아!!
 # 及"冰心诀"二种绝技
 [BEGIN MESSAGE] 12568
 소요가 "비룡탐운수"와
-빙심결을 배웠다.
+"빙심결"을 배웠다.
 [END MESSAGE] 12569
 
 # Original message: 12570 
@@ -47344,7 +47344,7 @@ $02내 운명을 결정할 순 없어~70
 # Original message: 13323 
 # "赵灵儿力量觉醒"~45
 [BEGIN MESSAGE] 13323
-령아의 힘이 돌아온다.~45
+"령아의 힘이 돌아온다"~45
 [END MESSAGE] 13323
 
 # Original message: 13324 
@@ -47518,7 +47518,7 @@ $02내 운명을 결정할 순 없어~70
 # Original message: 13366 
 # "酒神咒"使用次数已用尽
 [BEGIN MESSAGE] 13366
-"술의 신"사용횟수 초과
+"주신주"사용횟수 초과
 [END MESSAGE] 13366
 
 # Original message: 13367 
@@ -47764,7 +47764,8 @@ $02내 운명을 결정할 순 없어~70
 # 以雄浑气劲横扫群魔，
 # 攻击敌方全体。
 [BEGIN MESSAGE] 13422
-영혼 긋기,*대상: 적전체.
+영혼 긋기,
+대상: 적전체.
 [END MESSAGE] 13423
 
 # Original message: 13424 
@@ -47900,7 +47901,7 @@ HP+150 개인
 # 召唤酒神，
 # 用全身真气爆发攻击敌人。
 [BEGIN MESSAGE] 13451
-술의 신 소환,
+주신 소환,
 효과: 오라 버스트
 [END MESSAGE] 13452
 
